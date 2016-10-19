@@ -89,9 +89,11 @@ both
 brief
 briefly
 but
+buds
 by
 c
 ca
+cannabis
 came
 can
 cannot
@@ -166,6 +168,11 @@ fifth
 first
 five
 fix
+flora
+flower
+flow
+full
+fill
 followed
 following
 follows
@@ -180,6 +187,7 @@ further
 furthermore
 g
 game
+ganja
 gave
 get
 gets
@@ -197,6 +205,23 @@ good
 got
 gotten
 great
+growing
+growers
+plants
+size
+weight
+yield
+stache
+cache
+cash
+money
+profit
+hobby
+love
+clean
+fun
+sustainable
+green
 h
 had
 happens
@@ -209,6 +234,10 @@ haven
 haven't
 having
 he
+health
+healthy
+heeping
+happy 
 hed
 hence
 her
@@ -233,6 +262,9 @@ how
 howbeit
 however
 hundred
+hydro
+hydroponic
+hydroponics
 i
 id
 ie
@@ -300,6 +332,13 @@ looks
 lot
 ltd
 m
+marijuana
+mary j
+mary jane
+merry jane
+MJ
+melt
+monster
 made
 mate
 mainly
@@ -363,6 +402,7 @@ noted
 nothing
 now
 nowhere
+nutrients
 o
 obtain
 obtained
